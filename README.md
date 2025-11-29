@@ -1,1 +1,1 @@
-# Lab_olimpiad_comb
+# Lab_olympiad_comb
